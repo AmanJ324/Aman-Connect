@@ -1,6 +1,6 @@
-let IS_PROD = false;
+let IS_PROD = true;
 const server = IS_PROD ?
-    "https://dhamsa-call.onrender.com" :
+    "https://aman-connect.onrender.com" :
 
     "http://localhost:8000"
 
