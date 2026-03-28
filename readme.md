@@ -177,16 +177,7 @@ AmanConnect/
 - `GET /api/v1/meetings` - Get user's meetings
 - `GET /api/v1/meetings/:id` - Get meeting details
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-**Aman Jain**
 
 ## 🙏 Acknowledgments
 
@@ -194,6 +185,4 @@ AmanConnect/
 - Built with modern web technologies
 - Thanks to the open-source community
 
----
-
-**Note**: This is a clone project for educational purposes. For production use, additional security measures and optimizations would be required.
+--
