@@ -36,7 +36,6 @@ A full-stack video conferencing application built with the MERN stack, featuring
 *List of past meetings and sessions.*
 
 
-
 ## �🛠️ Tech Stack
 
 ### Backend
